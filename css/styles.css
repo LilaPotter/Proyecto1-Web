@@ -3,3 +3,18 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+#burger{
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    cursor: pointer;
+
+}
+
+#burger .barra{
+    width: 30px;
+    height: 2px;
+    background-color: black;
+    margin: 6px;
+}
